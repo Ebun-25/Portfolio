@@ -1,9 +1,15 @@
 body {
-  font-family: 'Segoe UI', sans-serif;
+ font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
   color: #333;
+
+  /* Background settings */
+  background-image: url('Images/background.jpg');  /* Capital "I" to match your folder */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; /* Optional: keeps background in place while scrolling */
 }
 
 header {
