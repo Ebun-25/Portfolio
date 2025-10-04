@@ -2,7 +2,10 @@
 
 Hi! I'm Ebunoluwa, a Computer Science student passionate about Cybersecurity, IT Support, and Software Development. This is my personal portfolio built using HTML and CSS.
 
-🔹 [View My Resume](resume.html)
+## 🌐 Live Portfolio
+
+[View My Portfolio Website](https://ebun-25.github.io/portfolio/)
+
 
 ## 💼 Notable Projects
 - **Cybersecurity Labs (Kali Linux, Wireshark, Hack The Box):** Ethical hacking, packet analysis, and pen testing using VMs.
