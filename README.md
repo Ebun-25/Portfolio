@@ -4,7 +4,7 @@ Hi! I'm Ebunoluwa, a Computer Science student passionate about Cybersecurity, IT
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio Website](https://ebun-25.github.io/portfolio/)
+[View My Portfolio Website](https://ebun-25.github.io/Portfolio/)
 
 
 ## 💼 Notable Projects
