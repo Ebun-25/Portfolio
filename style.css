@@ -31,9 +31,11 @@ nav a {
  
   background-color: rgba(0, 0, 0, 0.6);  /* dark overlay */
   color: white;                         /* readable text */
+  padding: 40px 20px;
+  text-align: center;
   border-radius: 8px;
-  max-width: 900px;
   margin: 20px auto;
+  max-width: 900px;
 }
 
 .btn {
